@@ -1,0 +1,17 @@
+@import "./reset.css";
+
+h1 {
+    color: black;
+}
+
+.cropper {
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.selfie {
+    height: auto;
+    width: 100%;
+}
